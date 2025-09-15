@@ -1,0 +1,2 @@
+# Numerical-Analysis-of-Cu-ZnSn-S-Se-Solar-Cells-via-Ellipsometry-and-SCAPS-1D
+The objective of this assignment is to design and model an electrical/electronic device with a focus on material selection and their electronic properties. In this work, numerical analysis of earth-abundant Cu₂ZnSn(SₓSe₁₋ₓ)₄ (CZTSSe) solar cells has been carried out using spectroscopic ellipsometry results and simulated with SCAPS-1D software.
